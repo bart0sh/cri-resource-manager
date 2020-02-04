@@ -1,4 +1,4 @@
-module github.com/intel/cri-resource-manager
+module github.com/bart0sh/cri-resource-manager
 
 go 1.13
 
